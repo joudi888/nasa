@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
   
 class Information extends StatelessWidget {
-  const Information({  });
+  const Information({ dynnamic});  
 
   @override
   Widget build(BuildContext context) {

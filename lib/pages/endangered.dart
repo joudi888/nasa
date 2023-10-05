@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 class Endangered extends StatelessWidget {
-  const Endangered({super.key});
+  const Endangered({dynamic});
 
   @override
   Widget build(BuildContext context) {
